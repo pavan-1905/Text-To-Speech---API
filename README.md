@@ -1,4 +1,3 @@
-# Text To Speech - API
 # 🔊 Text-to-Speech API
 
 ## 📜 Overview
@@ -22,7 +21,7 @@ With the growing demand for accessibility and audio-based content, Text-to-Speec
 - **CSS**: For styling and user interface design.
 - **JavaScript**: To handle text-to-speech functionality via the **Web Speech API**.
 
-![Project Preview](images/project_image1.jpg)
+![image](https://github.com/pavan-1905/Text-To-Speech---API/blob/6304f70dcb75f55863c41a4c064f74121cdaee9e/project%20image%201.jpg)
 
 ---
 
@@ -33,17 +32,17 @@ With the growing demand for accessibility and audio-based content, Text-to-Speec
 ✔️ Adjustable voice settings (pitch, rate, volume)  
 ✔️ Works directly in the browser without external dependencies  
 
-![Project UI](images/project_image2.jpg)
+![image](https://github.com/pavan-1905/Text-To-Speech---API/blob/6304f70dcb75f55863c41a4c064f74121cdaee9e/project%20image%202.jpg)
 
 ---
 
+![image](https://github.com/pavan-1905/Text-To-Speech---API/blob/6304f70dcb75f55863c41a4c064f74121cdaee9e/project%20image3.jpg)
 ## 🚀 **Installation & Setup**
 ### 🔹 Prerequisites
-Ensure you have a modern web browser like **Chrome, Edge, or Firefox** that supports the Web Speech API.
-Open index.html in a Browser
-Simply double-click index.html or open it using a local server:
+1. Ensure you have a modern web browser like **Chrome, Edge, or Firefox** that supports the Web Speech API. Open index.html in a Browser
+2. Simply double-click index.html or open it using a local server:
 **python -m http.server 8000**
-Then, visit http://localhost:8000/ in your browser.
+3. Then, visit http://localhost:8000/ in your browser.
 
 📜 File Descriptions
 🔹 index.html
@@ -56,15 +55,13 @@ Defines the layout and design of the webpage, making it visually appealing.
 Handles the core logic for text-to-speech conversion using the Web Speech API.
 
 🎤 How It Works
-User enters text in the input box.
-The "Speak" button triggers the Web Speech API.
-The API converts the text into speech and plays it.
-Users can stop or change the speech settings (if available).
+1. User enters text in the input box.
+2. The "Speak" button triggers the Web Speech API.
+3. The API converts the text into speech and plays it.
+4. Users can stop or change the speech settings (if available).
 
 
 
-### 🔹 Steps to Run the Project
-1. **Clone the Repository**  
-   ```sh
-   git clone https://github.com/yourusername/text-to-speech-api.git
-   cd text-to-speech-api
+
+
+
